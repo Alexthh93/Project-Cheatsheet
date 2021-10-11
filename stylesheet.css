@@ -1,0 +1,31 @@
+.Header-introduction {
+    background-image: url(./images/coding\ image.jpg);
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    max-height: 210px;
+    min-height: 180px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center; 
+    background-color: rgb(255, 253, 249);
+    word-spacing: 2px;
+    font-size: 20px;
+    line-height: 150%;
+}
+
+h2 {
+    font-size: 26px;
+} 
+
+h3 {
+    font-size: 22px;
+}
+
+ul {
+    list-style-position: inside;
+    font-size: 18px;
+}
